@@ -1,5 +1,21 @@
 # Инструкция для работы с МакркДаун
 
+## Commands
+
+* git --version
+* git rm nameofthefile.txt - delete file
+* git init
+* git add "name of the file.txt"
+* git commit -m "kommentariy"
+* git status
+* git diff
+* git log
+* git checkout "name of the branch"
+* git branch - show all of branchs
+* git branch name - add new branch
+* git branch -d name - delete branch
+* git merge namepfbranch - proizvodit sliyanie vetok
+
 ## Выделение текста
 
 Чтобы выделить текст курсивом необходимо обрамить его звездочкой (*) или нижним подчеркиванием (_). Например, *вот так* или _вот так_.
