@@ -14,7 +14,7 @@
 * git branch - show all of branchs
 * git branch name - add new branch
 * git branch -d name - delete branch
-* git merge namepfbranch - proizvodit sliyanie vetok
+* git merge nameofbranch - proizvodit sliyanie vetok
 
 ## Выделение текста
 
