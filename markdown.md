@@ -2,10 +2,10 @@
 
 ## Commands
 
-## * git --version
-* **git rm nameofthefile.txt - delete file**
+* git --version
+* git rm nameofthefile.txt - delete file
 * git init
-1. git add "name of the file.txt"
+* git add "name of the file.txt"
 * git commit -m "kommentariy"
 * git status
 * git diff
