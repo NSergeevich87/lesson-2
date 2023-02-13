@@ -2,19 +2,19 @@
 
 ## Commands
 
-(* git --version
+* git --version
 * git rm nameofthefile.txt - delete file
-# * git init
-# * git add "name of the file.txt"
-# * git commit -m "kommentariy"
-* **git status**
+* git init
+* git add "name of the file.txt"
+* git commit -m "kommentariy"
+* git status
 * git diff
 * git log
 * git checkout "name of the branch"
 * git branch - show all of branchs
 * git branch name - add new branch
 * git branch -d name - delete branch
-* git merge nameofbranch - proizvodit sliyanie vetok)
+* git merge nameofbranch - proizvodit sliyanie vetok
 ***
 *Далее будут постепенно добавляться новые команды*
 
