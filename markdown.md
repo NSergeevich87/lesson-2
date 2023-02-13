@@ -15,6 +15,8 @@
 * git branch name - add new branch
 * git branch -d name - delete branch
 * git merge nameofbranch - proizvodit sliyanie vetok
+***
+*Далее будут постепенно добавляться новые команды*
 
 ## Выделение текста
 
