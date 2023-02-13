@@ -2,19 +2,19 @@
 
 ## Commands
 
-* git --version
+(* git --version
 * git rm nameofthefile.txt - delete file
-* git init
-* git add "name of the file.txt"
-* git commit -m "kommentariy"
-* git status
+# * git init
+# * git add "name of the file.txt"
+# * git commit -m "kommentariy"
+* **git status**
 * git diff
 * git log
 * git checkout "name of the branch"
 * git branch - show all of branchs
 * git branch name - add new branch
 * git branch -d name - delete branch
-* git merge nameofbranch - proizvodit sliyanie vetok
+* git merge nameofbranch - proizvodit sliyanie vetok)
 ***
 *Далее будут постепенно добавляться новые команды*
 
@@ -23,7 +23,7 @@
 Чтобы выделить текст курсивом необходимо обрамить его звездочкой (*) или нижним подчеркиванием (_). Например, *вот так* или _вот так_.
 Полужирный шрифт необходимо обрамить двойными звездочками (**) или двойной чертой (__). Например, **вот так** или __вот так__.
 
-Альтернативные способы нужны, чтобы совмещать все виды форматирования. Текст может быть одновременно курсивом и полужирным:
+Альтернативные способы НЕ нужны, чтобы совмещать все виды форматирования. Текст может быть одновременно курсивом и полужирным:
 _Например вот **так**_.
 ***
 *Ниже будут добавляться новые виды форматирования текста*
